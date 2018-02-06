@@ -1,0 +1,2 @@
+Bonjour, je sais que deux de mes commits portent le même nom,  à savoir "Ajouté une ligne via l'éditeur de texte Vim", c'est parce que j'ai fait une erreur de manipulation et je ne sais pas encore comment corriger ça, je compte sur votre indulgence, je n'utilise Git et github depuis quelques jours seulement et je ne suis pas encore très à l'aise avec... Soyez indulgents! Merci,
+L'apprentie codeuse
